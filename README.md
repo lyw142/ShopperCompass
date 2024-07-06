@@ -1,4 +1,4 @@
-# SmartSalesHelper
+# SmartSalesHelper - Shopper's Compass
 <p>This project is a Django-based Tiktok recommendation system that utilizes a dataset scraped from Amazon to provide users with product recommendations. Below is a breakdown of the project's key components and functionalities:</p>
 
 <ol>
@@ -15,9 +15,9 @@
   <li><strong>Database:</strong> The project uses a pre-built dataset (data.pkl) and machine learning models loaded from joblib files instead of a traditional database for storing and retrieving product information.</li>
 </ol>
 
-<p>This Django E-commerce recommendation system employs machine learning to provide product recommendations based on user input and similarity scores, offering an interactive and user-friendly interface. Users can input a product title, and the system will suggest similar products based on clustering and similarity calculations.</p>
+<p>This Django Tiktok recommendation system employs machine learning to provide product recommendations based on user input and similarity scores, offering an interactive and user-friendly interface. Users can input a product title, and the system will suggest similar products based on clustering and similarity calculations.</p>
 
-<h3> Follow these steps to run the Django-based E-commerce recommendation project:</h3>
+<h3> Follow these steps to run the Django-based Tiktok recommendation project:</h3>
 
 <ol>
   <li><strong>Navigate to Project Directory:</strong> Open the command prompt or terminal and navigate to the project's root directory using the cd command. 
@@ -66,3 +66,9 @@
 </ol>
 
 <p>Now, the Django Tiktok recommendation project should be running locally. Users can access the recommendation system through their web browsers and receive product recommendations based on their input.</p>
+
+<h3> Credits: </h3>
+<p>This project was developed using open-source code and resources. Special thanks to the author:</p>
+<ul>
+  <li>Shawon Barman: https://github.com/ShawonBarman/E-commerce_recommendation_system </li>
+</ul>

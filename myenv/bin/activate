@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/cydniena/Downloads/E-commerce_recommendation_system-main/myenv"
+VIRTUAL_ENV="/Users/cydniena/Documents/GitHub/SmartSalesHelper/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
