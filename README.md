@@ -72,3 +72,5 @@
 <ul>
   <li>Shawon Barman: https://github.com/ShawonBarman/E-commerce_recommendation_system </li>
 </ul>
+
+<p>Youtube link: https://youtu.be/yeAqfHQEHyw?si=0krCTOcsb9Q-MA3n</p>
