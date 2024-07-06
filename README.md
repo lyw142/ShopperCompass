@@ -1,4 +1,4 @@
-# SmartSalesHelper - Shopper's Compass
+# Shopper's Compass
 <p>This project is a Django-based Tiktok recommendation system that utilizes a dataset scraped from Amazon to provide users with product recommendations. Below is a breakdown of the project's key components and functionalities:</p>
 
 <ol>
